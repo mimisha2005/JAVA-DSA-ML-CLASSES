@@ -24,3 +24,24 @@ More topics will be added as I continue learning.
 ## 📂 Project Structure
 
 
+---
+
+## 🎯 Purpose
+
+This repository is part of my journey to strengthen my Data Structures and Algorithms concepts for:
+
+- Placements
+- Internships
+- Competitive Programming
+- Technical Interviews
+
+---
+
+## 👩‍💻 Author
+
+**Mimisha Paul**  
+B.Tech ECE Student  
+Learning and building consistently 🚀
+
+
+
